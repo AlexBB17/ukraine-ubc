@@ -1,0 +1,602 @@
+# Translation of Dream in Russian
+# This file is distributed under the same license as the Dream package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2015-07-23 15:31:53+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: GlotPress/1.0-alpha-1100\n"
+"Project-Id-Version: Dream\n"
+
+#: searchform.php:8
+msgctxt "label"
+msgid "Search for:"
+msgstr "Найти:"
+
+#: searchform.php:8
+msgctxt "placeholder"
+msgid "Search&hellip;"
+msgstr "Поиск ..."
+
+#: search.php:16
+msgid "Search Results for: %s"
+msgstr "Результаты поиска: %s"
+
+#: options.php:217
+msgid "Check to activate slider."
+msgstr "Отметьте для активации слайдера"
+
+#: options.php:226
+msgid "Image Upload #%1$s"
+msgstr "Загрузка иображения #%1$s"
+
+#: options.php:227
+msgid "Upload slider image."
+msgstr "Загрузите изображения в слайдер"
+
+#: options.php:232
+msgid "Enter title for your slider."
+msgstr "Укажите заголовок для Вашего слайдера."
+
+#: options.php:238
+msgid "Enter your slider description."
+msgstr "Укажите описание Вашего сладера."
+
+#: options.php:244
+msgid "Enter link to redirect slider when clicked"
+msgstr "Укажите ссылку для слайда"
+
+#: options.php:266
+msgid "View Demo"
+msgstr "Посмотреть демо"
+
+#: options.php:216
+msgid "Activate slider"
+msgstr "Активировать слайдер"
+
+#: options.php:210
+msgid "Slider"
+msgstr "Слайдер"
+
+#: options.php:200
+msgid "Upload favicon"
+msgstr "Добавить favicon"
+
+#: options.php:134
+msgid "Select default layout. This layout will be reflected in whole site archives, search etc. The layout for a single post and page can be controlled from below options."
+msgstr "Выберите макет по умолчанию. Этот макет будет отражен в архивах сайта, поиске и т.д. Компоновку для одного поста и страницы можно установить из вариантов снизу."
+
+#: options.php:146
+msgid "Default layout for pages only"
+msgstr "Шаблон по умолчанию для страниц"
+
+#: options.php:147
+msgid "Select default layout for pages. This layout will be reflected in all pages unless unique layout is set for specific page."
+msgstr "Выбор макета по умолчанию для страниц. Затронет все страницы, если для них не указано иное."
+
+#: options.php:159
+msgid "Default layout for single posts only"
+msgstr "Шаблон по умочанию для одиночных постов"
+
+#: options.php:160
+msgid "Select default layout for single posts. This layout will be reflected in all single posts unless unique layout is set for specific post."
+msgstr "Выбор макета по умолчанию для одиночных постов. Затронет все одиночные посты, если для них не указано иное."
+
+#: options.php:175
+msgid "Primary color option"
+msgstr "Основные цвета"
+
+#: options.php:176
+msgid "This will reflect in links, buttons and many others. Choose a color to match your site."
+msgstr "Настройка цветовой схемы сайта. Ссылки, кнопки и др."
+
+#: options.php:185
+msgid "Additional"
+msgstr "Дополнительно"
+
+#: options.php:191
+msgid "Activate favicon"
+msgstr "Активировать favicon"
+
+#: options.php:192
+msgid "Check to activate favicon. Upload fav icon from below option"
+msgstr "Отметьте, чтобы активировать favicon. Загрузите иконку в опции ниже"
+
+#: options.php:201
+msgid "Upload favicon for your site."
+msgstr "Загрузить favicon для Вашего сайта."
+
+#: options.php:133
+msgid "Default layout"
+msgstr "Разметка по умолчанию"
+
+#: options.php:128
+msgid "Design"
+msgstr "Внешний вид"
+
+#: options.php:118
+msgid "Choose the option that you want."
+msgstr "Выберите нужную опцию."
+
+#: options.php:117
+msgid "Show"
+msgstr "Показать"
+
+#: options.php:114
+msgid "Disable"
+msgstr "Запретить"
+
+#: options.php:103
+msgid "Header Logo"
+msgstr "Логотип заголовка"
+
+#: options.php:111
+msgid "Header Logo Only"
+msgstr "Только логотип заголовка"
+
+#: options.php:112
+msgid "Header Text Only"
+msgstr "Только текст заголовка"
+
+#: options.php:113
+msgid "Show Both"
+msgstr "Показывать оба"
+
+#: options.php:97
+msgid "Header"
+msgstr "Заголовок"
+
+#: options.php:36
+msgid "Waffle"
+msgstr "Вафля"
+
+#: options.php:33
+msgid "Pancake"
+msgstr "Оладь"
+
+#: options.php:34
+msgid "Omelette"
+msgstr "Омлет"
+
+#: options.php:35
+msgid "Crepe"
+msgstr "Креп"
+
+#: options.php:26
+msgid "Four"
+msgstr "Четыри"
+
+#: options.php:27
+msgid "Five"
+msgstr "Пять"
+
+#: options.php:32
+msgid "French Toast"
+msgstr "Французский тост"
+
+#: options.php:25
+msgid "Three"
+msgstr "Три"
+
+#: options.php:24
+msgid "Two"
+msgstr "Два"
+
+#: options.php:23
+msgid "One"
+msgstr "Один"
+
+#: inc/widgets/widgets.php:34
+msgid "Footer Sidebar One"
+msgstr "Первый сайдбар подвала"
+
+#: inc/widgets/widgets.php:36
+msgid "Shows widgets at footer sidebar one."
+msgstr "Показывать виджеты в зоне первого сайдбара подвала."
+
+#: inc/widgets/widgets.php:45
+msgid "Footer Sidebar Two"
+msgstr "Второй сайдбар подвала"
+
+#: inc/widgets/widgets.php:47
+msgid "Shows widgets at footer sidebar two."
+msgstr "Показывать виджеты в зоне второго сайдбара подвала."
+
+#: inc/widgets/widgets.php:56
+msgid "Footer Sidebar Three"
+msgstr "Третий  сайдбар подвала"
+
+#: inc/widgets/widgets.php:58
+msgid "Shows widgets at footer sidebar three."
+msgstr "Показывать виджеты в зоне третьего сайдбара подвала."
+
+#: inc/widgets/widgets.php:23
+msgid "Left Sidebar"
+msgstr "Меню слева"
+
+#: inc/widgets/widgets.php:13
+msgid "Right Sidebar"
+msgstr "Меню справа"
+
+#: inc/template-tags.php:249
+msgid "Newer posts"
+msgstr "Следующие записи"
+
+#: inc/template-tags.php:245
+msgid "Older posts"
+msgstr "Предыдущие записи"
+
+#: inc/template-tags.php:239
+msgid "Page"
+msgstr "Страница"
+
+#: inc/template-tags.php:217
+msgid "Your comment is awaiting moderation."
+msgstr "Ваш комментарий ожидает проверки."
+
+#: inc/template-tags.php:213
+msgctxt "1: date, 2: time"
+msgid "%1$s at %2$s"
+msgstr "%1$s в %2$s"
+
+#: inc/template-tags.php:201
+msgid "Pingback:"
+msgstr "Уведомление:"
+
+#: inc/template-tags.php:115
+msgid "Archives"
+msgstr "Архивы"
+
+#. translators: 1: Taxonomy singular name, 2: Current taxonomy term
+#: inc/template-tags.php:113
+msgid "%1$s: %2$s"
+msgstr "%1$s: %2$s"
+
+#: inc/template-tags.php:109
+msgid "Archives: %s"
+msgstr "Архивы: %s"
+
+#: inc/template-tags.php:106
+msgctxt "post format archive title"
+msgid "Chats"
+msgstr "Чаты"
+
+#: inc/template-tags.php:104
+msgctxt "post format archive title"
+msgid "Audio"
+msgstr "Аудио"
+
+#: inc/template-tags.php:102
+msgctxt "post format archive title"
+msgid "Statuses"
+msgstr "Статусы"
+
+#: inc/template-tags.php:100
+msgctxt "post format archive title"
+msgid "Links"
+msgstr "Ссылки"
+
+#: inc/template-tags.php:98
+msgctxt "post format archive title"
+msgid "Quotes"
+msgstr "Цитаты"
+
+#: inc/template-tags.php:96
+msgctxt "post format archive title"
+msgid "Videos"
+msgstr "Видео"
+
+#: inc/template-tags.php:94
+msgctxt "post format archive title"
+msgid "Images"
+msgstr "Изображения"
+
+#: inc/template-tags.php:92
+msgctxt "post format archive title"
+msgid "Galleries"
+msgstr "Галереи"
+
+#: inc/template-tags.php:90
+msgctxt "post format archive title"
+msgid "Asides"
+msgstr "Заметки"
+
+#: inc/template-tags.php:87
+msgctxt "daily archives date format"
+msgid "F j, Y"
+msgstr "d.m.Y"
+
+#: inc/template-tags.php:87
+msgid "Day: %s"
+msgstr "День: %s"
+
+#: inc/template-tags.php:85
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr "F Y"
+
+#: inc/template-tags.php:85
+msgid "Month: %s"
+msgstr "Месяц: %s"
+
+#: inc/template-tags.php:83
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y"
+
+#: inc/template-tags.php:83
+msgid "Year: %s"
+msgstr "Год: %s"
+
+#: inc/template-tags.php:81
+msgid "Author: %s"
+msgstr "Автор: %s"
+
+#: inc/template-tags.php:79
+msgid "Tag: %s"
+msgstr "Метка: %s"
+
+#: inc/template-tags.php:77
+msgid "Category: %s"
+msgstr "Рубрика: %s"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:56 inc/template-tags.php:62
+msgid ", "
+msgstr ", "
+
+#: inc/template-tags.php:48
+msgid "Featured"
+msgstr "Избранное"
+
+#: inc/template-tags.php:37
+msgid "% Comments"
+msgstr "Комментарии (%)"
+
+#: inc/template-tags.php:37
+msgid "1 Comment"
+msgstr "1 комментарий"
+
+#: inc/template-tags.php:37
+msgid "Leave a comment"
+msgstr "Оставить комментарий"
+
+#: inc/includes/class-options-sanitization.php:427
+msgid "Bold Italic"
+msgstr "Жирный Курсив"
+
+#: inc/includes/class-options-sanitization.php:426
+msgid "Bold"
+msgstr "Жирный"
+
+#: inc/includes/class-options-sanitization.php:425
+msgid "Italic"
+msgstr "Курсив"
+
+#: inc/includes/class-options-sanitization.php:424
+msgid "Normal"
+msgstr "Обычная"
+
+#: inc/includes/class-options-sanitization.php:352
+msgid "Fixed in Place"
+msgstr "Зафиксировано"
+
+#: inc/includes/class-options-sanitization.php:351
+msgid "Scroll Normally"
+msgstr "Нормально"
+
+#: inc/includes/class-options-sanitization.php:339
+msgid "Bottom Right"
+msgstr "Внизу справа"
+
+#: inc/includes/class-options-sanitization.php:338
+msgid "Bottom Center"
+msgstr "Внизу посередине"
+
+#: inc/includes/class-options-sanitization.php:337
+msgid "Bottom Left"
+msgstr "Внизу слева"
+
+#: inc/includes/class-options-sanitization.php:336
+msgid "Middle Right"
+msgstr "Посередине справа"
+
+#: inc/includes/class-options-sanitization.php:335
+msgid "Middle Center"
+msgstr "Посередине"
+
+#: inc/includes/class-options-sanitization.php:334
+msgid "Middle Left"
+msgstr "Посередине слева"
+
+#: inc/includes/class-options-sanitization.php:333
+msgid "Top Right"
+msgstr "Вверху справа"
+
+#: inc/includes/class-options-sanitization.php:332
+msgid "Top Center"
+msgstr "Вверху посередине"
+
+#: inc/includes/class-options-sanitization.php:331
+msgid "Top Left"
+msgstr "Вверху слева"
+
+#: inc/includes/class-options-sanitization.php:319
+msgid "Repeat All"
+msgstr "Повторять везде"
+
+#: inc/includes/class-options-sanitization.php:318
+msgid "Repeat Vertically"
+msgstr "Повторять вертикально"
+
+#: inc/includes/class-options-sanitization.php:317
+msgid "Repeat Horizontally"
+msgstr "Повторять горизонтально"
+
+#: inc/includes/class-options-sanitization.php:316
+msgid "No Repeat"
+msgstr "Не повторять"
+
+#: inc/includes/class-options-media-uploader.php:94
+msgid "View File"
+msgstr "Просмотреть файл"
+
+#: inc/includes/class-options-media-uploader.php:70
+msgid "Upgrade your version of WordPress for full media support."
+msgstr "Обновите вашу версию WordPress для полной медиа поддержки."
+
+#: inc/includes/class-options-media-uploader.php:67
+#: inc/includes/class-options-media-uploader.php:119
+msgid "Remove"
+msgstr "Удалить"
+
+#: inc/includes/class-options-media-uploader.php:65
+#: inc/includes/class-options-media-uploader.php:118
+msgid "Upload"
+msgstr "Загрузить"
+
+#: inc/includes/class-options-media-uploader.php:62
+msgid "No file chosen"
+msgstr "Файл не выбран"
+
+#: inc/includes/class-options-framework-admin.php:289
+msgid "Options saved."
+msgstr "Настройки сохранены."
+
+#: inc/includes/class-options-framework-admin.php:235
+msgid "Default options restored."
+msgstr "Настройки по умолчанию восстановлены. "
+
+#: inc/includes/class-options-framework-admin.php:204
+msgid "Click OK to reset. Any theme settings will be lost!"
+msgstr "Нажмите кнопку OK, чтобы сбросить. Все настройки темы будут потеряны!"
+
+#: inc/includes/class-options-framework-admin.php:204
+msgid "Restore Defaults"
+msgstr "Восстановить по умолчанию"
+
+#: inc/includes/class-options-framework-admin.php:203
+msgid "Save Options"
+msgstr "Сохранить изменения"
+
+#: inc/includes/class-options-framework-admin.php:91
+#: inc/includes/class-options-framework-admin.php:92
+msgid "Theme Options"
+msgstr "Настройки темы"
+
+#: inc/extras.php:52
+msgid "Page %s"
+msgstr "Страница %s"
+
+#: header.php:52
+msgid "Menu"
+msgstr "Меню"
+
+#: header.php:22
+msgid "Skip to content"
+msgstr "Перейти к содержимому"
+
+#: functions.php:53
+msgid "Primary Menu"
+msgstr "Основное меню"
+
+#: footer.php:20
+msgid "Theme: %1$s by %2$s."
+msgstr "Тема %1$s от %2$s."
+
+#: footer.php:18
+msgid "Proudly powered by %s"
+msgstr "Сайт работает на %s"
+
+#: footer.php:18
+msgid "http://wordpress.org/"
+msgstr "http://wordpress.org/"
+
+#. translators: %s: Name of current post
+#: content.php:28
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Читать далее %s <span class=\"meta-nav\">&rarr;</span>"
+
+#: content-page.php:28 content-single.php:26 content.php:35
+msgid "Pages:"
+msgstr "Страниц:"
+
+#: content-page.php:20 inc/template-tags.php:33 inc/template-tags.php:201
+#: inc/template-tags.php:214
+msgid "Edit"
+msgstr "Изменить"
+
+#: content-none.php:28
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Запрошенную информацию найти не удалось. Возможно, будет полезен поиск по сайту."
+
+#: content-none.php:23
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Извините, по вашему запросу ничего не найдено. Попробуйте другие ключевые слова."
+
+#: content-none.php:19
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Готовы опубликовать свою первую запись? <a href=\"%1$s\">Начните отсюда</a>."
+
+#: content-none.php:13
+msgid "Nothing Found"
+msgstr "Ничего не найдено"
+
+#: comments.php:91
+msgid "Cancel reply"
+msgstr "Отменить ответ"
+
+#: comments.php:84
+msgid "Website"
+msgstr "Сайт"
+
+#: comments.php:83
+msgid "Email"
+msgstr "E-mail"
+
+#: comments.php:82
+msgid "Name"
+msgstr "Имя"
+
+#: comments.php:72
+msgid "Comments are closed."
+msgstr "Обсуждение закрыто."
+
+#: comments.php:39 comments.php:60
+msgid "Newer Comments"
+msgstr "Следующие комментарии"
+
+#: comments.php:38 comments.php:59
+msgid "Older Comments"
+msgstr "Предыдущие комментарии"
+
+#: comments.php:35 comments.php:56
+msgid "Comment navigation"
+msgstr "Навигация по комментариям"
+
+#: comments.php:28
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "%2$s: %1$s комментарий"
+msgstr[1] "%2$s: %1$s комментария"
+msgstr[2] "%2$s: %1$s комментариев"
+
+#. translators: %1$s: smiley
+#: 404.php:44
+msgid "Try looking in the monthly archives. %1$s"
+msgstr "Загляните в архивы по месяцам %1$s"
+
+#: 404.php:27
+msgid "Most Used Categories"
+msgstr "Часто используемые рубрики"
+
+#: 404.php:19
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr "По данному адресу ничего не найдено. Попробуйте воспользоваться одной из ссылок ниже или поиском."
+
+#: 404.php:15
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Ой! Страница не найдена."
