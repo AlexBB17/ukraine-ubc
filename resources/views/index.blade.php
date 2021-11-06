@@ -26,7 +26,9 @@
     <meta property="og:title" content="Главная">
     <meta property="og:type" content="website">
 </head>
-<body class="u-body u-overlap"><header class="u-clearfix u-header" id="sec-e843"><div class="u-clearfix u-sheet u-valign-middle u-sheet-1">
+<body class="u-body u-overlap">
+
+<header class="u-clearfix u-header" id="sec-e843"><div class="u-clearfix u-sheet u-valign-middle u-sheet-1">
         <a href="https://nicepage.com" class="u-image u-logo u-image-1" data-image-width="80" data-image-height="40">
             <img src="{{ asset('img/default-logo.png') }}" class="u-logo-image u-logo-image-1">
         </a>
@@ -62,13 +64,16 @@
             </div>
 
         </nav>
-    </div></header>
+    </div>
+</header>
+
 <section class="u-align-center u-clearfix u-gradient u-section-1" src="" id="sec-9073">
     <div class="u-clearfix u-sheet u-sheet-1">
         <h1 class="u-text u-text-body-alt-color u-text-default u-title u-text-1">CONSULTING UBC</h1>
         <p class="u-large-text u-text u-text-body-alt-color u-text-default u-text-variant u-text-2"> Стратегия решений юридических вопросов и миграционных процессов</p>
     </div>
 </section>
+
 <section class="u-clearfix u-section-2" id="about-us">
     <div class="u-clearfix u-sheet u-sheet-1">
         <div class="u-clearfix u-expanded-width u-gutter-0 u-layout-wrap u-layout-wrap-1">
@@ -90,6 +95,7 @@
         </div>
     </div>
 </section>
+
 <section class="u-align-center u-clearfix u-section-3" id="what-we-do">
     <div class="u-clearfix u-sheet u-sheet-1">
         <h2 class="u-text u-text-1">Основные виды деятельности</h2>
@@ -174,33 +180,39 @@
         </div>
     </div>
 </section>
+
 <section class="skrollable u-align-center u-clearfix u-gradient u-section-4" id="statistic">
     <div class="u-clearfix u-sheet u-valign-middle u-sheet-1">
         <h2 class="u-text u-text-body-alt-color u-text-1">Немного статистики</h2>
         <div class="u-expanded-width u-layout-grid u-list u-list-1">
             <div class="u-repeater u-repeater-1">
+
                 <div class="u-align-center u-container-style u-list-item u-repeater-item u-shape-rectangle u-list-item-1">
                     <div class="u-container-layout u-similar-container u-valign-middle u-container-layout-1">
                         <h1 class="u-text u-text-body-alt-color u-title u-text-2">92</h1>
                         <p class="u-text u-text-body-alt-color u-text-3">Lorem ipsum dolor sit amet</p>
                     </div>
                 </div>
+
                 <div class="u-align-center u-container-style u-list-item u-repeater-item u-shape-rectangle u-list-item-2">
                     <div class="u-container-layout u-similar-container u-valign-middle u-container-layout-2">
                         <h1 class="u-text u-text-body-alt-color u-title u-text-4">25</h1>
                         <p class="u-text u-text-body-alt-color u-text-5">Lorem ipsum dolor sit amet</p>
                     </div>
                 </div>
+
                 <div class="u-align-center u-container-style u-list-item u-repeater-item u-shape-rectangle u-list-item-3">
                     <div class="u-container-layout u-similar-container u-valign-middle u-container-layout-3">
                         <h1 class="u-text u-text-body-alt-color u-title u-text-6">37</h1>
                         <p class="u-text u-text-body-alt-color u-text-7">Lorem ipsum dolor sit amet</p>
                     </div>
                 </div>
+
             </div>
         </div>
     </div>
 </section>
+
 <section class="u-clearfix u-section-5" id="contact-us">
     <div class="u-clearfix u-sheet u-sheet-1">
         <h2 class="u-align-center u-text u-text-1">Свяжитесь с нами</h2>
@@ -209,24 +221,64 @@
                 <div class="u-layout-row">
                     <div class="u-container-style u-layout-cell u-size-30 u-layout-cell-1">
                         <div class="u-container-layout u-valign-bottom u-container-layout-1">
-                            <p class="u-text u-text-default u-text-2"> 04112 г.Киев</p>
-                            <p class="u-align-center u-text u-text-3"> ул. Авиаконструктора Игоря Сикорского 6, офис 3 (рядом с Посольством США)</p>
-                            <a href="https://nicepage.com/static-site-generator" class="u-active-none u-btn u-btn-rectangle u-button-style u-hover-none u-none u-radius-0 u-text-body-color u-btn-1"><span class="u-icon"><svg class="u-svg-content" viewBox="0 0 405.333 405.333" x="0px" y="0px" style="width: 1em; height: 1em;"><path d="M373.333,266.88c-25.003,0-49.493-3.904-72.704-11.563c-11.328-3.904-24.192-0.896-31.637,6.699l-46.016,34.752    c-52.8-28.181-86.592-61.952-114.389-114.368l33.813-44.928c8.512-8.512,11.563-20.971,7.915-32.64    C142.592,81.472,138.667,56.96,138.667,32c0-17.643-14.357-32-32-32H32C14.357,0,0,14.357,0,32    c0,205.845,167.488,373.333,373.333,373.333c17.643,0,32-14.357,32-32V298.88C405.333,281.237,390.976,266.88,373.333,266.88z"></path></svg><img></span>&nbsp;​+38 (044) 458 4457
-                            </a>
-                            <a href="https://nicepage.com/k/consulting-website-templates" class="u-active-none u-align-center u-btn u-btn-rectangle u-button-style u-hover-none u-none u-radius-0 u-text-body-color u-btn-2"><span class="u-icon"><svg class="u-svg-content" viewBox="0 0 405.333 405.333" x="0px" y="0px" style="width: 1em; height: 1em;"><path d="M373.333,266.88c-25.003,0-49.493-3.904-72.704-11.563c-11.328-3.904-24.192-0.896-31.637,6.699l-46.016,34.752    c-52.8-28.181-86.592-61.952-114.389-114.368l33.813-44.928c8.512-8.512,11.563-20.971,7.915-32.64    C142.592,81.472,138.667,56.96,138.667,32c0-17.643-14.357-32-32-32H32C14.357,0,0,14.357,0,32    c0,205.845,167.488,373.333,373.333,373.333c17.643,0,32-14.357,32-32V298.88C405.333,281.237,390.976,266.88,373.333,266.88z"></path></svg><img></span>&nbsp;​+38&nbsp;(066) 299 4965
-                            </a>
-                            <a href="https://nicepage.com/website-design" class="u-active-none u-align-center u-btn u-btn-rectangle u-button-style u-hover-none u-none u-radius-0 u-text-body-color u-btn-3"><span class="u-icon"><svg class="u-svg-content" viewBox="0 0 405.333 405.333" x="0px" y="0px" style="width: 1em; height: 1em;"><path d="M373.333,266.88c-25.003,0-49.493-3.904-72.704-11.563c-11.328-3.904-24.192-0.896-31.637,6.699l-46.016,34.752    c-52.8-28.181-86.592-61.952-114.389-114.368l33.813-44.928c8.512-8.512,11.563-20.971,7.915-32.64    C142.592,81.472,138.667,56.96,138.667,32c0-17.643-14.357-32-32-32H32C14.357,0,0,14.357,0,32    c0,205.845,167.488,373.333,373.333,373.333c17.643,0,32-14.357,32-32V298.88C405.333,281.237,390.976,266.88,373.333,266.88z"></path></svg><img></span>&nbsp;​+38 (093) 811 9690
-                            </a>
-                            <p class="u-align-center u-text u-text-default u-text-4"><span class="u-icon u-icon-4"><svg class="u-svg-content" viewBox="0 0 512 512" x="0px" y="0px" style="width: 1em; height: 1em;"><g><g><path d="M507.49,101.721L352.211,256L507.49,410.279c2.807-5.867,4.51-12.353,4.51-19.279V121    C512,114.073,510.297,107.588,507.49,101.721z"></path>
-</g>
-</g><g><g><path d="M467,76H45c-6.927,0-13.412,1.703-19.279,4.51l198.463,197.463c17.548,17.548,46.084,17.548,63.632,0L486.279,80.51    C480.412,77.703,473.927,76,467,76z"></path>
-</g>
-</g><g><g><path d="M4.51,101.721C1.703,107.588,0,114.073,0,121v270c0,6.927,1.703,13.413,4.51,19.279L159.789,256L4.51,101.721z"></path>
-</g>
-</g><g><g><path d="M331,277.211l-21.973,21.973c-29.239,29.239-76.816,29.239-106.055,0L181,277.211L25.721,431.49    C31.588,434.297,38.073,436,45,436h422c6.927,0,13.412-1.703,19.279-4.51L331,277.211z"></path>
-</g>
-</g></svg><img></span>&nbsp;​​ info@consulting-ubc.kiev.ua
+                            <p class="u-text u-text-default u-text-2">04112 г.Киев</p>
+                            <p class="u-align-center u-text u-text-3">ул. Авиаконструктора Игоря Сикорского 6, офис 3 (рядом с Посольством США)</p>
+
+                            <p class="u-align-center u-text u-text-default u-text-4">
+                                <span class="u-icon">
+                                    <svg class="u-svg-content" viewBox="0 0 405.333 405.333" x="0px" y="0px" style="width: 1em; height: 1em;">
+                                        <path d="M373.333,266.88c-25.003,0-49.493-3.904-72.704-11.563c-11.328-3.904-24.192-0.896-31.637,6.699l-46.016,34.752    c-52.8-28.181-86.592-61.952-114.389-114.368l33.813-44.928c8.512-8.512,11.563-20.971,7.915-32.64    C142.592,81.472,138.667,56.96,138.667,32c0-17.643-14.357-32-32-32H32C14.357,0,0,14.357,0,32    c0,205.845,167.488,373.333,373.333,373.333c17.643,0,32-14.357,32-32V298.88C405.333,281.237,390.976,266.88,373.333,266.88z"></path>
+                                    </svg>
+                                </span>
+                                &nbsp;+38 (044) 458 4457
                             </p>
+
+                            <p class="u-align-center u-text u-text-default u-text-4">
+                                <span class="u-icon">
+                                    <svg class="u-svg-content" viewBox="0 0 405.333 405.333" x="0px" y="0px" style="width: 1em; height: 1em;">
+                                        <path d="M373.333,266.88c-25.003,0-49.493-3.904-72.704-11.563c-11.328-3.904-24.192-0.896-31.637,6.699l-46.016,34.752    c-52.8-28.181-86.592-61.952-114.389-114.368l33.813-44.928c8.512-8.512,11.563-20.971,7.915-32.64    C142.592,81.472,138.667,56.96,138.667,32c0-17.643-14.357-32-32-32H32C14.357,0,0,14.357,0,32    c0,205.845,167.488,373.333,373.333,373.333c17.643,0,32-14.357,32-32V298.88C405.333,281.237,390.976,266.88,373.333,266.88z"></path>
+                                    </svg>
+                                </span>
+                                &nbsp;+38&nbsp;(066) 299 4965
+                            </p>
+
+                            <p class="u-align-center u-text u-text-default u-text-4">
+                                <span class="u-icon">
+                                    <svg class="u-svg-content" viewBox="0 0 405.333 405.333" x="0px" y="0px" style="width: 1em; height: 1em;">
+                                        <path d="M373.333,266.88c-25.003,0-49.493-3.904-72.704-11.563c-11.328-3.904-24.192-0.896-31.637,6.699l-46.016,34.752    c-52.8-28.181-86.592-61.952-114.389-114.368l33.813-44.928c8.512-8.512,11.563-20.971,7.915-32.64    C142.592,81.472,138.667,56.96,138.667,32c0-17.643-14.357-32-32-32H32C14.357,0,0,14.357,0,32    c0,205.845,167.488,373.333,373.333,373.333c17.643,0,32-14.357,32-32V298.88C405.333,281.237,390.976,266.88,373.333,266.88z"></path>
+                                    </svg>
+                                </span>
+                                &nbsp;+38 (093) 811 9690
+                            </p>
+
+                            <p class="u-align-center u-text u-text-default u-text-4">
+                                <span class="u-icon u-icon-4">
+                                    <svg class="u-svg-content" viewBox="0 0 512 512" x="0px" y="0px" style="width: 1em; height: 1em;">
+                                        <g>
+                                            <g>
+                                                <path d="M507.49,101.721L352.211,256L507.49,410.279c2.807-5.867,4.51-12.353,4.51-19.279V121    C512,114.073,510.297,107.588,507.49,101.721z"></path>
+                                            </g>
+                                        </g>
+                                        <g>
+                                            <g>
+                                                <path d="M467,76H45c-6.927,0-13.412,1.703-19.279,4.51l198.463,197.463c17.548,17.548,46.084,17.548,63.632,0L486.279,80.51    C480.412,77.703,473.927,76,467,76z"></path>
+                                            </g>
+                                        </g>
+                                        <g>
+                                            <g>
+                                                <path d="M4.51,101.721C1.703,107.588,0,114.073,0,121v270c0,6.927,1.703,13.413,4.51,19.279L159.789,256L4.51,101.721z"></path>
+                                            </g>
+                                        </g>
+                                        <g>
+                                            <g>
+                                                <path d="M331,277.211l-21.973,21.973c-29.239,29.239-76.816,29.239-106.055,0L181,277.211L25.721,431.49    C31.588,434.297,38.073,436,45,436h422c6.927,0,13.412-1.703,19.279-4.51L331,277.211z"></path>
+                                            </g>
+                                        </g>
+                                    </svg>
+                                </span>
+                                &nbsp;info@consulting-ubc.kiev.ua
+                            </p>
+
                             <div class="u-form u-form-1">
                                 <form action="#" method="POST" class="u-clearfix u-form-spacing-10 u-form-vertical u-inner-form" source="custom" name="form" style="padding: 10px;">
                                     <div class="u-form-group u-form-name">
@@ -267,7 +319,6 @@
     </div>
 </section>
 
-
 <footer class="u-align-center-md u-align-center-sm u-align-center-xs u-clearfix u-footer u-grey-80" id="sec-0376"><div class="u-clearfix u-sheet u-valign-middle u-sheet-1">
         <a href="https://nicepage.com" class="u-image u-logo u-image-1" data-image-width="80" data-image-height="40">
             <img src="{{ asset('img/default-logo.png') }}" class="u-logo-image u-logo-image-1">
@@ -296,9 +347,5 @@
     </div>
 </footer>
 
-    <span style="height: 64px; width: 64px; margin-left: 0px; margin-right: auto; margin-top: 0px; background-image: none; right: 20px; bottom: 20px" class="u-back-to-top u-icon u-icon-circle u-opacity u-opacity-85 u-palette-1-base u-spacing-15" data-href="#">
-        <svg class="u-svg-link" preserveAspectRatio="xMidYMin slice" viewBox="0 0 551.13 551.13"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#svg-1d98"></use></svg>
-        <svg class="u-svg-content" enable-background="new 0 0 551.13 551.13" viewBox="0 0 551.13 551.13" xmlns="http://www.w3.org/2000/svg" id="svg-1d98"><path d="m275.565 189.451 223.897 223.897h51.668l-275.565-275.565-275.565 275.565h51.668z"></path></svg>
-    </span>
 </body>
 </html>
