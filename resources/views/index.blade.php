@@ -87,7 +87,9 @@
                     <div class="u-align-left u-container-style u-layout-cell u-right-cell u-size-37 u-layout-cell-2">
                         <div class="u-container-layout u-valign-middle u-container-layout-2">
                             <h2 class="u-text u-text-default u-text-1">О нас</h2>
-                            <p class="u-text u-text-2">Paragraph. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur id suscipit ex. Suspendisse rhoncus laoreet purus quis elementum. Phasellus sed efficitur dolor, et ultricies sapien. Quisque fringilla sit amet dolor commodo efficitur. Aliquam et sem odio. In ullamcorper nisi nunc, et molestie ipsum iaculis sit amet.</p>
+                            <p class="u-text u-text-2">Наша команда — это профессиональные дипломированные специалисты в сфере
+                                юридичнских услуг, а также туризма и миграционных процессов, в такие страны как:
+                                Великобритания, Канада, Соединенные Штаты Америки и многие другие страны мира.</p>
                         </div>
                     </div>
                 </div>
@@ -97,7 +99,7 @@
 </section>
 
 <section class="u-align-center u-clearfix u-section-3" id="what-we-do">
-    <div class="u-clearfix u-sheet u-sheet-1">
+    <div class="u-clearfix u-sheet u-valign-middle u-sheet-1">
         <h2 class="u-text u-text-1">Основные виды деятельности</h2>
         <div class="u-list u-list-1">
             <div class="u-repeater u-repeater-1">
@@ -115,8 +117,10 @@
 
           </span>
                         <h3 class="u-align-center u-text u-text-2"> Разрешение юридических проблем</h3>
-                        <p class="u-align-center u-text u-text-3">Sample text. Click to select the text box. Click again or double click to start editing the text.</p>
-                        <a href="" class="u-active-none u-border-2 u-border-palette-2-light-1 u-btn u-btn-rectangle u-button-style u-hover-none u-none u-text-body-color u-btn-1">learn more</a>
+                        <p class="u-align-center u-text u-text-3">Гражданские и уголовные дела,
+                            корпоратичные споры, представительство в государственных органах,
+                            бракоразводные процессы</p>
+                        <a href="" class="u-active-none u-border-2 u-border-palette-2-light-1 u-btn u-btn-rectangle u-button-style u-hover-none u-none u-text-body-color u-btn-1">Подробнее</a>
                     </div>
                 </div>
                 <div class="u-align-center u-container-style u-list-item u-repeater-item">
@@ -126,8 +130,8 @@
 
           </span>
                         <h3 class="u-text u-text-4"> Миграция и визовые вопросы</h3>
-                        <p class="u-text u-text-5">Sample text. Click to select the text box. Click again or double click to start editing the text.</p>
-                        <a href="" class="u-active-none u-border-2 u-border-palette-2-light-1 u-btn u-btn-rectangle u-button-style u-hover-none u-text-body-color u-btn-2">learn more</a>
+                        <p class="u-text u-text-5">Профессиональная подготовка документов по визовым и миграционным процессам</p>
+                        <a href="" class="u-active-none u-border-2 u-border-palette-2-light-1 u-btn u-btn-rectangle u-button-style u-hover-none u-text-body-color u-btn-2">Подробнее</a>
                     </div>
                 </div>
                 <div class="u-align-center u-container-style u-list-item u-repeater-item">
@@ -138,8 +142,9 @@
 
           </span>
                         <h3 class="u-text u-text-6"> Брачные вопросы с иностранцами</h3>
-                        <p class="u-text u-text-7">Sample text. Click to select the text box. Click again or double click to start editing the text.</p>
-                        <a href="" class="u-active-none u-border-2 u-border-palette-2-light-1 u-btn u-btn-rectangle u-button-style u-hover-none u-text-body-color u-btn-3">learn more</a>
+                        <p class="u-text u-text-7">Брак с иностранцем, подготовка документов на получение иммиграционной визы,
+                            оформление вида на жительство</p>
+                        <a href="" class="u-active-none u-border-2 u-border-palette-2-light-1 u-btn u-btn-rectangle u-button-style u-hover-none u-text-body-color u-btn-3">Подробнее</a>
                     </div>
                 </div>
                 <div class="u-align-center u-container-style u-list-item u-repeater-item">
@@ -149,8 +154,8 @@
 
           </span>
                         <h3 class="u-text u-text-8"> Регистрация иностранцев в Украине</h3>
-                        <p class="u-text u-text-9">Sample text. Click to select the text box. Click again or double click to start editing the text.</p>
-                        <a href="" class="u-active-none u-border-2 u-border-palette-2-light-1 u-btn u-btn-rectangle u-button-style u-hover-none u-none u-text-body-color u-btn-4">learn more</a>
+                        <p class="u-text u-text-9">Помощь в проведении регистрационных действий на получение ВНЖ в Украине</p>
+                        <a href="" class="u-active-none u-border-2 u-border-palette-2-light-1 u-btn u-btn-rectangle u-button-style u-hover-none u-none u-text-body-color u-btn-4">Подробнее</a>
                     </div>
                 </div>
                 <div class="u-align-center u-container-style u-list-item u-repeater-item">
@@ -160,8 +165,8 @@
 
           </span>
                         <h3 class="u-text u-text-10"> Перевод документов</h3>
-                        <p class="u-text u-text-11">Sample text. Click to select the text box. Click again or double click to start editing the text.</p>
-                        <a href="" class="u-active-none u-border-2 u-border-palette-2-light-1 u-btn u-btn-rectangle u-button-style u-hover-none u-text-body-color u-btn-5">learn more</a>
+                        <p class="u-text u-text-11">Доверьте перевод своих документов профессионалам</p>
+                        <a href="" class="u-active-none u-border-2 u-border-palette-2-light-1 u-btn u-btn-rectangle u-button-style u-hover-none u-text-body-color u-btn-5">Подробнее</a>
                     </div>
                 </div>
                 <div class="u-align-center u-container-style u-list-item u-repeater-item">
@@ -172,8 +177,8 @@
 
           </span>
                         <h3 class="u-text u-text-12"> Организация туристических поездок</h3>
-                        <p class="u-text u-text-13">Sample text. Click to select the text box. Click again or double click to start editing the text.</p>
-                        <a href="" class="u-active-none u-border-2 u-border-palette-2-light-1 u-btn u-btn-rectangle u-button-style u-hover-none u-text-body-color u-btn-6">learn more</a>
+                        <p class="u-text u-text-13">Эксклюзивные, индивидуальные, горящие и отказные туры. Предложения раннего бронирования и спецпредложения туроператоров.</p>
+                        <a href="" class="u-active-none u-border-2 u-border-palette-2-light-1 u-btn u-btn-rectangle u-button-style u-hover-none u-text-body-color u-btn-6">Подробнее</a>
                     </div>
                 </div>
             </div>
@@ -240,15 +245,6 @@
                                     </svg>
                                 </span>
                                 &nbsp;+38&nbsp;(066) 299 4965
-                            </p>
-
-                            <p class="u-align-center u-text u-text-default u-text-4">
-                                <span class="u-icon">
-                                    <svg class="u-svg-content" viewBox="0 0 405.333 405.333" x="0px" y="0px" style="width: 1em; height: 1em;">
-                                        <path d="M373.333,266.88c-25.003,0-49.493-3.904-72.704-11.563c-11.328-3.904-24.192-0.896-31.637,6.699l-46.016,34.752    c-52.8-28.181-86.592-61.952-114.389-114.368l33.813-44.928c8.512-8.512,11.563-20.971,7.915-32.64    C142.592,81.472,138.667,56.96,138.667,32c0-17.643-14.357-32-32-32H32C14.357,0,0,14.357,0,32    c0,205.845,167.488,373.333,373.333,373.333c17.643,0,32-14.357,32-32V298.88C405.333,281.237,390.976,266.88,373.333,266.88z"></path>
-                                    </svg>
-                                </span>
-                                &nbsp;+38 (093) 811 9690
                             </p>
 
                             <p class="u-align-center u-text u-text-default u-text-4">
