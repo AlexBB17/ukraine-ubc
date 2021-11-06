@@ -29,7 +29,7 @@
 <body class="u-body u-overlap">
 
 <header class="u-clearfix u-header" id="sec-e843"><div class="u-clearfix u-sheet u-valign-middle u-sheet-1">
-        <a href="https://nicepage.com" class="u-image u-logo u-image-1" data-image-width="80" data-image-height="40">
+        <a href="/" class="u-image u-logo u-image-1" data-image-width="80" data-image-height="40">
             <img src="{{ asset('img/default-logo.png') }}" class="u-logo-image u-logo-image-1">
         </a>
         <nav class="u-menu u-menu-dropdown u-offcanvas u-menu-1">
@@ -320,7 +320,7 @@
 </section>
 
 <footer class="u-align-center-md u-align-center-sm u-align-center-xs u-clearfix u-footer u-grey-80" id="sec-0376"><div class="u-clearfix u-sheet u-valign-middle u-sheet-1">
-        <a href="https://nicepage.com" class="u-image u-logo u-image-1" data-image-width="80" data-image-height="40">
+        <a href="/" class="u-image u-logo u-image-1" data-image-width="80" data-image-height="40">
             <img src="{{ asset('img/default-logo.png') }}" class="u-logo-image u-logo-image-1">
         </a>
         <div class="u-align-left u-social-icons u-spacing-10 u-social-icons-1">
