@@ -181,7 +181,7 @@
     </div>
 </section>
 
-<section class="skrollable u-align-center u-clearfix u-gradient u-section-4" id="statistic">
+<section class="u-align-center u-clearfix u-gradient u-section-4" id="statistic">
     <div class="u-clearfix u-sheet u-valign-middle u-sheet-1">
         <h2 class="u-text u-text-body-alt-color u-text-1">Немного статистики</h2>
         <div class="u-expanded-width u-layout-grid u-list u-list-1">
@@ -213,9 +213,9 @@
     </div>
 </section>
 
-<section class="u-clearfix u-section-5" id="contact-us">
-    <div class="u-clearfix u-sheet u-sheet-1">
-        <h2 class="u-align-center u-text u-text-1">Свяжитесь с нами</h2>
+<section class="u-align-center u-clearfix u-section-5" id="contact-us">
+    <div class="u-clearfix u-sheet u-valign-middle u-sheet-1">
+        <h2 class="u-text u-text-1">Свяжитесь с нами</h2>
         <div class="u-clearfix u-layout-wrap u-layout-wrap-1">
             <div class="u-layout">
                 <div class="u-layout-row">
