@@ -6,6 +6,7 @@
     <meta name="keywords" content="Консалтинг ЮБС">
     <meta name="description" content="">
     <meta name="page_type" content="np-template-header-footer-from-plugin">
+
     <title>Consulting UBC - Стратегия решений юридических вопросов и миграционных процессов</title>
     <link rel="stylesheet" href="{{ asset('css/nicepage.css') }}" media="screen">
     <link rel="stylesheet" href="{{ asset('css/index.css') }}" media="screen">
@@ -276,7 +277,7 @@
                             </p>
 
                             <div class="u-form u-form-1">
-                                <form action="#" method="POST" class="u-clearfix u-form-spacing-10 u-form-vertical u-inner-form" source="custom" name="form" style="padding: 10px;">
+                                <form action="/index/mail" method="POST" class="u-clearfix u-form-spacing-10 u-form-vertical u-inner-form" source="custom" name="form" style="padding: 10px;">
                                     <div class="u-form-group u-form-name">
                                         <label for="name-576d" class="u-form-control-hidden u-label"></label>
                                         <input type="text" placeholder="Введите Ваше имя" id="name-576d" name="name" class="u-border-1 u-border-grey-30 u-input u-input-rectangle u-white" required="">
@@ -296,6 +297,7 @@
                                     <div class="u-form-send-message u-form-send-success"> Спасибо! Ваше сообщение отправлено. </div>
                                     <div class="u-form-send-error u-form-send-message"> Отправка не удалась. Пожалуйста, исправьте ошибки и попробуйте еще раз. </div>
                                     <input type="hidden" value="" name="recaptchaResponse">
+                                    @csrf
                                 </form>
                             </div>
                         </div>
