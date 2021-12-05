@@ -194,22 +194,22 @@
 
                 <div class="u-align-center u-container-style u-list-item u-repeater-item u-shape-rectangle u-list-item-1">
                     <div class="u-container-layout u-similar-container u-valign-middle u-container-layout-1">
-                        <h1 class="u-text u-text-body-alt-color u-title u-text-2">92</h1>
-                        <p class="u-text u-text-body-alt-color u-text-3">Lorem ipsum dolor sit amet</p>
+                        <h3 class="u-text u-text-body-alt-color u-title u-text-2">8600</h3>
+                        <p class="u-text u-text-body-alt-color u-text-3">Успешных визовых процессов</p>
                     </div>
                 </div>
 
                 <div class="u-align-center u-container-style u-list-item u-repeater-item u-shape-rectangle u-list-item-2">
                     <div class="u-container-layout u-similar-container u-valign-middle u-container-layout-2">
-                        <h1 class="u-text u-text-body-alt-color u-title u-text-4">25</h1>
-                        <p class="u-text u-text-body-alt-color u-text-5">Lorem ipsum dolor sit amet</p>
+                        <h3 class="u-text u-text-body-alt-color u-title u-text-4">1980</h3>
+                        <p class="u-text u-text-body-alt-color u-text-5">Успешных юридических процессов</p>
                     </div>
                 </div>
 
                 <div class="u-align-center u-container-style u-list-item u-repeater-item u-shape-rectangle u-list-item-3">
                     <div class="u-container-layout u-similar-container u-valign-middle u-container-layout-3">
-                        <h1 class="u-text u-text-body-alt-color u-title u-text-6">37</h1>
-                        <p class="u-text u-text-body-alt-color u-text-7">Lorem ipsum dolor sit amet</p>
+                        <h3 class="u-text u-text-body-alt-color u-title u-text-6">3600</h3>
+                        <p class="u-text u-text-body-alt-color u-text-7">Успешных иммиграционных процессов</p>
                     </div>
                 </div>
 
